@@ -6,4 +6,5 @@ Some developer made changes to the remote repository file.
 int a = 10
 
 String s = "Hello";
+int a2 = 200
 
